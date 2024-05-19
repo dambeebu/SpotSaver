@@ -1,0 +1,15 @@
+Name: Ishmael
+Reservation Type: table for two
+Number of Guests: 2
+Time: 11am
+
+Name: Ishmael Manne
+Reservation Type: Premium
+Number of Guests: 2
+Time: 11 am
+
+Name: Josephine Manne
+Reservation Type: VIP
+Number of Guests: 2
+Time: 12 am
+
